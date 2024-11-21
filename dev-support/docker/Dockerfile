@@ -20,7 +20,7 @@
 
 # FROM dockerfile/java:openjdk-7-jdk
 # FROM dockerfile/java:oracle-java7
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190425
 
 WORKDIR /root
 
